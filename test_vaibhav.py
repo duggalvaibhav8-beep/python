@@ -1,2 +1,2 @@
-print("Hello, Vaibhav!")
-print("Welcome to the world of programming.")
+def test_basic():
+    assert True
